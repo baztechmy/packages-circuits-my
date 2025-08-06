@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "urls": [
+    [
+      "/circuit-my-tools/test.py",
+      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test.py"
+    ],
+    [
+      "/circuit-my-tools/test1/test1-1.py",
+      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test1/test1-1.py"
+    ],
+    [
+      "/circuit-my-tools/test1/test1-2.py",
+      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test1/test1-2.py"
+    ],
+    [
+      "/circuit-my-tools/test2/test2-1.py",
+      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test2/test2-1.py"
+    ]
+  ]
+}

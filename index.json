@@ -1,0 +1,16 @@
+{
+  "v": "3.viper-ide",
+  "updated": 1728745833,
+  "packages": [
+    {
+      "name": "circuit-my-tools",
+      "homepage": "https//github.com/baztechmy/packages-circuits-my/tree/main/packages/circuit-my-tools",
+      "version": [
+        {
+          "version": "latest",
+          "url": "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/package.json"
+        }
+      ]
+    }
+  ]
+}

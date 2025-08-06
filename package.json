@@ -1,0 +1,16 @@
+{
+  "name": "package-circuits-my",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "br": "node build.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
