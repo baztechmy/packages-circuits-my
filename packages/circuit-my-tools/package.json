@@ -6,16 +6,16 @@
       "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test.py"
     ],
     [
-      "/circuit-my-tools/test1/test1-1.py",
-      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test1/test1-1.py"
+      "/circuit-my-tools/test1/test1.py",
+      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test1/test1.py"
     ],
     [
-      "/circuit-my-tools/test1/test1-2.py",
-      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test1/test1-2.py"
+      "/circuit-my-tools/test1/test2.py",
+      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test1/test2.py"
     ],
     [
-      "/circuit-my-tools/test2/test2-1.py",
-      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test2/test2-1.py"
+      "/circuit-my-tools/test2/test1.py",
+      "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/test2/test1.py"
     ]
   ]
 }
