@@ -47,7 +47,7 @@ readDirectory('./packages').filter(val => val.isDirectory()).forEach(dir => {
     }
 
     const files = traverse('./packages', `/${dir.name}`).filter(entry => !entry.endsWith('package.json'));
-    package.urls.push(...files.map(val => [val, `github:baztechmy/packages-circuits-my/packages${val}`]));
+    package.urls.push(...files.map(val => [val.replace(/\-/g, '_'), `github:baztechmy/packages-circuits-my/packages${val}`]));
 
     packages[`./packages/${dir.name}`] = package;
 });
