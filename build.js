@@ -23,7 +23,7 @@ readDirectory('./packages').filter(val => val.isDirectory()).forEach(dir => {
     index.packages.push({
         name: dir.name,
         homepage: `https//github.com/baztechmy/packages-circuits-my/tree/main/packages/${dir.name}`,
-        version: [{
+        versions: [{
             version: "latest",
             url: `github:baztechmy/packages-circuits-my/packages/${dir.name}/package.json`
         }]

@@ -5,7 +5,7 @@
     {
       "name": "circuit-my-tools",
       "homepage": "https//github.com/baztechmy/packages-circuits-my/tree/main/packages/circuit-my-tools",
-      "version": [
+      "versions": [
         {
           "version": "latest",
           "url": "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/package.json"
