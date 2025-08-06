@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "urls": [
+    [
+      "/watashi/pp.py",
+      "github:baztechmy/packages-circuits-my/packages/watashi/pp.py"
+    ]
+  ]
+}

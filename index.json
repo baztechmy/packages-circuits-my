@@ -11,6 +11,16 @@
           "url": "github:baztechmy/packages-circuits-my/packages/circuit-my-tools/package.json"
         }
       ]
+    },
+    {
+      "name": "watashi",
+      "homepage": "https//github.com/baztechmy/packages-circuits-my/tree/main/packages/watashi",
+      "versions": [
+        {
+          "version": "latest",
+          "url": "github:baztechmy/packages-circuits-my/packages/watashi/package.json"
+        }
+      ]
     }
   ]
 }
