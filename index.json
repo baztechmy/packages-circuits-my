@@ -13,6 +13,16 @@
       ]
     },
     {
+      "name": "new-package",
+      "homepage": "https//github.com/baztechmy/packages-circuits-my/tree/main/packages/new-package",
+      "versions": [
+        {
+          "version": "latest",
+          "url": "github:baztechmy/packages-circuits-my/packages/new-package/package.json"
+        }
+      ]
+    },
+    {
       "name": "watashi",
       "homepage": "https//github.com/baztechmy/packages-circuits-my/tree/main/packages/watashi",
       "versions": [

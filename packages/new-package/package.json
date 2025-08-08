@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "urls": [
+    [
+      "/new_package/main.py",
+      "github:baztechmy/packages-circuits-my/packages/new-package/main.py"
+    ]
+  ]
+}
